@@ -7,11 +7,12 @@ News Leaf is an application that seeks to bring news to the user through an API.
 ## Getting started
 To run the project, just open the project and wait
 #### The application requires an API key from https://newsapi.org to run it. Add your API key in the Constants file to the "apiKey" variable.
-![Captura de Tela 2024-05-20 às 03 24 42](https://github.com/IhanCarlos/NewsLeaf/assets/109620944/0dfaf897-b6d7-4f6c-bdc7-a313338f48c6)
+![Captura de Tela 2024-05-20 às 03 24 42](https://github.com/IhanCarlos/NewsLeaf/assets/109620944/e9b79b73-6ee5-476c-b13a-28c14c0f0e67)
+
 
 
 ## Screens overview
-![Captura de Tela 2024-05-19 às 20 31 47](https://github.com/IhanCarlos/NewsLeaf/assets/109620944/561aa2ed-1ce1-45a9-bb33-deff07d539b0)
+![Captura de Tela 2024-05-20 às 03 44 23](https://github.com/IhanCarlos/NewsLeaf/assets/109620944/1ec708f6-68e4-4957-984c-e2932d81ce9c)
 
 ## Technology stack
 - Swift and UIKit for design.
